@@ -1,3 +1,6 @@
+//COMSC 210 | Lab 19 | Anisha Rayapudi
+// IDE used: VS 2022
+
 #include <iostream>
 #include <string>
 #include <iomanip>
